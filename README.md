@@ -1,13 +1,10 @@
 # README
-## This is the README for your extension "darkjonas"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+## This is my Dark Theme DarkJonas
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+I made it for my self but published it so everybody can use it.
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+**Its meant for Unity(c#)**
 
-**Enjoy!**
+ I hope u have fun working with it
+
+ Bye

@@ -1,11 +1,23 @@
 {
     "name": "darkjonas",
     "displayName": "DarkJonas",
-    "description": "Its dark its mine",
+    "description": "Its dark and its mine",
     "version": "0.0.1",
+    "publisher": "DarkJonas",
     "engines": {
         "vscode": "^1.62.0"
     },
+    "repository": {
+        "type": "git",
+        "url" : "https://github.com/Tondoa/DarkJonasVSCodeTheme"
+    },
+    "keywords": [
+        "Theme",
+        "dark theme",
+        "Unity",
+        "csharp",
+        "c#"
+    ],
     "categories": [
         "Themes"
     ],
